@@ -1,0 +1,4 @@
+D:\Work In Progress\01 Exam Projects\helloWorld\helloWorldBusinessObj\bin\Debug\helloWorldBusinessObj.dll
+D:\Work In Progress\01 Exam Projects\helloWorld\helloWorldBusinessObj\bin\Debug\helloWorldBusinessObj.pdb
+D:\Work In Progress\01 Exam Projects\helloWorld\helloWorldBusinessObj\obj\Debug\helloWorldBusinessObj.dll
+D:\Work In Progress\01 Exam Projects\helloWorld\helloWorldBusinessObj\obj\Debug\helloWorldBusinessObj.pdb

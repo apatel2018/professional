@@ -1,0 +1,7 @@
+D:\Work In Progress\01 Exam Projects\helloWorld\helloWorldConsole\bin\Debug\helloWorldConsole.exe.config
+D:\Work In Progress\01 Exam Projects\helloWorld\helloWorldConsole\bin\Debug\helloWorldConsole.exe
+D:\Work In Progress\01 Exam Projects\helloWorld\helloWorldConsole\bin\Debug\helloWorldConsole.pdb
+D:\Work In Progress\01 Exam Projects\helloWorld\helloWorldConsole\obj\Debug\helloWorldConsole.exe
+D:\Work In Progress\01 Exam Projects\helloWorld\helloWorldConsole\obj\Debug\helloWorldConsole.pdb
+D:\Work In Progress\01 Exam Projects\helloWorld\helloWorldConsole\obj\Debug\helloWorldConsole.csprojResolveAssemblyReference.cache
+D:\Work In Progress\01 Exam Projects\helloWorld\helloWorldConsole\bin\Debug\App.config

@@ -1,0 +1,9 @@
+D:\Work In Progress\01 Exam Projects\helloWorld\helloWorldBLL\bin\Debug\helloWorldBLL.dll
+D:\Work In Progress\01 Exam Projects\helloWorld\helloWorldBLL\bin\Debug\helloWorldBLL.pdb
+D:\Work In Progress\01 Exam Projects\helloWorld\helloWorldBLL\obj\Debug\helloWorldBLL.dll
+D:\Work In Progress\01 Exam Projects\helloWorld\helloWorldBLL\obj\Debug\helloWorldBLL.pdb
+D:\Work In Progress\01 Exam Projects\helloWorld\helloWorldBLL\bin\Debug\helloWorldBusinessObj.dll
+D:\Work In Progress\01 Exam Projects\helloWorld\helloWorldBLL\bin\Debug\helloWorldDAL.dll
+D:\Work In Progress\01 Exam Projects\helloWorld\helloWorldBLL\bin\Debug\helloWorldBusinessObj.pdb
+D:\Work In Progress\01 Exam Projects\helloWorld\helloWorldBLL\bin\Debug\helloWorldDAL.pdb
+D:\Work In Progress\01 Exam Projects\helloWorld\helloWorldBLL\obj\Debug\helloWorldBLL.csprojResolveAssemblyReference.cache
